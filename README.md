@@ -7,5 +7,3 @@ I enjoy working on projects that push the boundaries of what technology can achi
 ## Here are languages I am familiar with 
 
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="48" height="48"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="48" height="48"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48" height="48"/>
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZpN3Y4cGY1dDV5MjdzYWg2Y2dieHUyNjNsaWZod3Ryd3gzOGM4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LML5ldpTKLPelFtBfY/giphy.gif" alt="Anime Dance" width="100" height="auto">
